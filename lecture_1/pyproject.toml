@@ -1,0 +1,9 @@
+[project]
+name = "innowise_laboratory"
+version = "0.1.0"
+description = "Python project with virtual environment and colorama"
+authors = [{ name = "Eugene" }]
+
+dependencies = [
+    "colorama"
+]
