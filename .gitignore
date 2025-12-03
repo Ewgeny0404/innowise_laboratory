@@ -14,3 +14,7 @@ venv/
 # System files
 .DS_Store
 Thumbs.db
+
+# DataBase
+*.db
+!school.db
