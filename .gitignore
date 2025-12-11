@@ -18,6 +18,7 @@ Thumbs.db
 # DataBase
 *.db
 !school.db
+!books.db
 
 # Python
 lecture_4/main.py
